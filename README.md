@@ -4,30 +4,30 @@
 
 
 
-
+-----------------
 Tool Creckk Efbe
+-----------------
 
 
 
+[+] pkg install update && pkg install upgrade
 
-pkg install update && pkg install upgrade
+[+] pkg install python
 
-pkg install python
+[+] pip2 install requests
 
-pip2 install requests
+[+] pip2 install mechanize
 
-pip2 install mechanize
+[+] pip2 install futures
 
-pip2 install futures
+[+] pip2 install bs4
 
-pip2 install bs4
+[+] pkg install git
 
-pkg install git
+[+] git clone https://github.com/Sage-v2/Asta
 
-git clone https://github.com/Astaroth-7/Asta
+[+] ls
 
-ls
+[+] cd Asta2
 
-cd Asta
-
-python Asta.py
+[+] python Asta2.py
