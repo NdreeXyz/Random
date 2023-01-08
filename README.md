@@ -24,7 +24,7 @@ Tool Creckk Efbe
 
 [+] pkg install git
 
-[+] git clone https://github.com/Sage-v2/Asta
+[+] git clone https://github.com/Sage-v2/Asta2
 
 [+] ls
 
