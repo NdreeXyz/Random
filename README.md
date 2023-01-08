@@ -10,7 +10,7 @@ Tool Creckk Efbe
 
 
 
-[+] pkg install update && pkg install upgrade
+[+] pkg update && pkg upgrade
 
 [+] pkg install python
 
