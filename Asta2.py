@@ -36,15 +36,15 @@ def aink(s):
 
 time.sleep(0.1)
 print("""\033[95m╔═════════════════════════════════════════════╗
-\033[95m║ \033[97m *\033[96mAuthor   \033[97m║\033[97mNdrex     \033[95m                   ║
-\033[95m║ \033[97m *\033[96m11/12 \033[97m║\033[97mScript Lama Ini Coeekk \033[95m                   ║
-\033[95m║ \033[97m *\033[96m2023 \033[97m║\033[97mKonmtol Keparat.\033[95m  ║
-\033[95m║ \033[97m *\033[96mWhatSapp\033[97m║ \033[97m +62 852-5677-4185\033[95m  ║
+\033[95m║ \033[97m *\033[96mAuthor\033[97m║\033[97m         Ndrex                                ║
+\033[95m║ \033[97m *\033[96m11/12 \033[97m║\033[97m HELLO WORLD                        ║
+\033[95m║ \033[97m *\033[96m2023 \033[97m  ║\033[97mKonmtol Keparat                      ║
+\033[95m║ \033[97m *\033[96mWhatSapp\033[ ║\033[97mMY NAME IS NDREX                ║
 \033[95m╚═════════════════════════════════════════════╝""")
-print("\033[95m║ \033[97m-\033[96mM\033[97m-\033[96mB\033[97m-\033[96mO\033[97m-\033[96mK\033[97m-\033[96mE\033[97m-\033[96mY \033[97m-\033[96m B\033[97m-\033[96mH\033[97m-\033[96mI\033[97m-\033[96mZ\033[97m-\033[96mE\033[97m-\033[96mR \033[97m- \033[96mR\033[95m║")
+print("\033[95m║ \033[97m-\033[96mN\033[97m-\033[96mD\033[97m-\033[96mR\033[97m-\033[96mE\033[97m-\033[96mX\033[97m║")
 print("\033[92m*Bila Belum Mengetahui Pasword Chat Di Whatsapp")
 print("\033[92m*Whatsapp Saya:+62 852-5677-4185")
-print("\033[92m*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx!") 
+print("\033[92m*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx") 
 print("\033[92mChet Gw Ye Kontol Jangan Maen Nyolong Aje")
 
 
