@@ -1,7 +1,13 @@
 # Asta
 
 
+
+
+
+
 Tool Creckk Efbe
+
+
 
 
 pkg install update && pkg install upgrade
