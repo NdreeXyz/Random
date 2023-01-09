@@ -50,7 +50,7 @@ print("\033[92mChet Gw Ye Kontol Jangan Maen Nyolong Aje")
 
 
 input("\n\033[95m[\033[97m?\033[95m] \033[96mNama Anda\033[97m:\033[92m ")
-Password = "H҉A҉C҉K҉E҉R҉"
+Password = "NDREX"
 
 loop = 'true'
 while (loop == 'true'):
@@ -95,7 +95,7 @@ def fail():
 def peak():
     time.sleep(0.1)
     print("""
-\033[95m _____    ___       ______   ______
+\033[95m   _____    ___       ______   ______
 \033[95m  / ___/   /   |     / ____/  / ____/
 \033[95m  \__ \   / /| |    / / __   / __/
 \033[95m ___/ /  / ___ |   / /_/ /  / /___
@@ -380,13 +380,14 @@ def mbfv2():
                    print('\033[95m\033[92mJUMLAH ID FB\x1b[1;91m :\x1b[1;92m ' + str(len(id)) + "\n\x1b[1;95m \n",end="")       
                    expass = input("\n\033[1;93m [\033[1;96m?\033[1;93m] + Password1 \033[1;91m: \033[1;92m")
                    expass = input("\033[1;92m [\033[1;96m?\033[1;92m] + Password2 \033[1;91m: \033[1;92m")
+                   expass = input ("\033[1;92m[\033[1;97m?\033[1;96m] + Password3 \033[1;91m: \033[1;92m") 
                    aink('\x1b[1;95m────────────────────────────────────────────────────\n')
                    lupo_lupo_milzu()
                    fail()
                    peak()
                    print('\033[96mSemua ID\x1b[1;91m :\033[96m ' + str(len(id)) + "\n\033[92m \n",end="")
-                   print('\n\033[95m [\033[1;92m+\033[95m] \033[96mhasil\033[92m Live\033[93m disimpan di \033[91m: \033[92mLive.txt\n \033[92m[\033[93m-\033[92m] \033[96mhasil\x1b[1;93m Ndrex\033[92m disimpan di \033[91m: \033[92mcp.txt')
-                   print('\n [\x1b[1;91m▪\x1b[1;95m] \033[92mjalan("\n%s [%s!%s]Mainkan Mode Pesawat 3 Detik Untuk Menjeda Proces Crek%(P,M,P))\n')
+                   print('\n\033[95m [\033[1;92m+\033[95m] \033[96mhasil\033[92m Live\033[93mdisimpan di \033[91m: \033[92mLive.txt\n \033[92m[\033[93m-\033[92m] \033[96mhasil\x1b[1;93m Ndrex\033[92m disimpan di \033[91m: \033[92mcp.txt')
+                   jalan("\n%s [%s!%s]\033[92Mainkan Mode Pesawat 3 Detik Untuk Menjeda Proces Crek %(P,M,P))
                    with ThreadPoolExecutor(max_workers=30) as ex:
                           for user in username:
                                   users = user.split('|')
