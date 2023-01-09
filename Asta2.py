@@ -425,7 +425,7 @@ def mbfv2():
          os.system("xdg-open https://youtu.be/QF0jMxC6CkE")
          mbfv2()
     elif uwu == "3" or uwu =="03":
-         os.system('xdg-open https://www.facebook.com/groups/NDREX.KING.OF.THE.TAUHID')
+         os.system('xdg-open https://www.facebook.com/NDREX.KING.OF.THE.TAUHID')
          mbfv2()
     elif uwu == "4" or uwu =="04":
          os.system('xdg-open https://chat.whatsapp.com/EEl2Erzh6jkEahbYE3QMu2')
