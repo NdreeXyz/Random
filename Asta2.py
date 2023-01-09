@@ -101,7 +101,7 @@ def peak():
 \033[95m  \__ \   / /| |    / / __   / __/           \033[91m\033[91m\033[91m\033[91m ~
 \033[95m ___/ /  / ___ |   / /_/ /  / /___       \033[91m\033[91m\033[91m\033[91m ~
 \033[95n/____/  /_/  |_|   \____/  /_____/     \033[91m\033[91m\033[91m\033[91m ~
-\033[91m==\033[97m*\033[91m==\033[97m*\033[91m==\033[97m*\033[91m==~
+\033[91m==\033[97m*\033[91m==\033[97m*\033[91m==\033[97m*\033[97m==~
 """)
 def mbfv2():
     time.sleep(0.1)
@@ -390,7 +390,7 @@ def mbfv2():
                    print('\033[96mSemua ID\x1b[1;91m :\033[96m ' + str(len(id)) + "\n\033[92m \n",end="")
                    print('\n\033[95m [\033[1;92m+\033[95m] \033[96mhasil\033[92m Live\033[93m disimpan di \033[91m: \033[92mLive.txt\n \033[92m[\033[93m-\033[92m] \033[96mhasil\x1b[1;93m Ndrex\033[92m disimpan di \033[91m: \033[92mcp.txt')
                    print('\n [\x1b[1;91m▪\x1b[1;92m] \033[92mMainkan Mode Pesawat 5 Detik Untuk Menjeda Proces Crek\n')
-                   print('\n [\x1b[1;91m▪\x1b[1;92m]\033[96mSEMOGA KAMU HOKY...! \n') 
+                   print('\n [\x1b[1;97m▪\x1b[1;92m]\033[96m SEMOGA KAMU HOKY...! \n') 
                    with ThreadPoolExecutor(max_workers=30) as ex:
                           for user in username:
                                   users = user.split('|')
