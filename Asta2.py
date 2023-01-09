@@ -26,7 +26,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 def mulai():
     os.system("git pull")
-def lupo_lupo_ndrex():
+def lupo_lupo_milzu():
     os.system("clear")
 def aink(s):
     for c in s + '\n':
@@ -135,7 +135,7 @@ def mbfv2():
              try:
                     cek = open("cookies").read()
              except FileNotFoundError:
-                   lupo_lupo_ndrex()
+                   lupo_lupo_milzu()
                    fail()
                    peak()
                    cek = input("\033[0;95m ║═════════════════════════════════╗ \n \033[95m║\033[95m[ \033[92mTekan open untuk membuka Cokie \033[0;90m]\033[95m║ \n \033[95m╚═════════════════════════════════╝ \n \033[95m╔═════════════════════════════════╗\n \033[95m║[\033[96m>_<\033[95m] \033[92mCokiee \033[1;96m~>\033[92m                  \033[95m║\n \033[95m╚═════════════════════════════════╝ \033[1;97m")
