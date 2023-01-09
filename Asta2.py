@@ -36,10 +36,10 @@ def aink(s):
 
 time.sleep(0.1)
 print("""\033[95m╔═════════════════════════════════════════════╗
-\033[95m║ \033[97m *\033[96mAuthor\033[97m║\033[97mNdrex\033[95m                        ║
-\033[95m║ \033[97m *\033[96mCodex\033[97m ║\033[97mPemula Yg Di Bully\033[95m ║
-\033[95m║ \033[97m *\033[96mBy\033[97m       ║\033[97mKonmtol Keparat\033[95m     ║
-\033[95m║ \033[97m *\033[96mNdrex\033[95m ║\033[97mMY NAME IS NDREX               ║
+\033[95m║ \033[97m *\033[96mAuthor\033[97m║\033[97mNdrex\033[95m                          ║
+\033[95m║ \033[97m *\033[96mCodex\033[97m ║\033[97mPemula Yg Di Bully\033[95m   ║
+\033[95m║ \033[97m *\033[96mBy\033[97m║        \033[97mKonmtol Keparat\033[95m              ║
+\033[95m║ \033[97m *\033[96mNdrex\033[95m║  \033[97mMY NAME IS NDREX                  ║
 \033[95m╚═════════════════════════════════════════════╝""")
 print("\033[95m║ \033[97m-\033[96mN\033[97m-\033[96mD\033[97m-\033[96mR\033[97m-\033[96mE\033[97m-\033[96mX\033[97m-║")
 print("\033[92m*Bila Belum Mengetahui Pasword Chat Di Whatsapp")
