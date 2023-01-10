@@ -274,7 +274,7 @@ def mbfv2():
                    fail()
                    peak()
                    aink(" \033[95m╔═════════════════════════════════════════════════╗") 
-                   aink(" \033[95m║═>\033[96m 😄PILIH METODE CREKK UNTUK NGE HEK AKUN AMPASS ")
+                   aink(" \033[95m║═>\033[96m 😄PILIH METODE CREKK UNTUK NGE HEK AKUN AMPASS ")     ║
                    aink(" \x1b[95m║═╔═══════════════════════════════════════════════╗")
                    aink(" \033[95m║═╚═>[\033[96m?\033[95m] \033[96m01\033[97m.\033[96mCRECK DAFTAR TEMAN                  \033[95m~═║")
                    aink(" \033[95m║═╔═════════════════════════════════════════════\033[95m~═║")
