@@ -397,7 +397,7 @@ def mbfv2():
            	         sys.stdout.write(e) 
                         sys.stdout.flush() 
                         time.sleep(0.3)                   
-                   auto('\n [\x1b[1;91m▪\x1b[1;92m] \033[92mMainkan Mode Pesawat 5 Detik Untuk Menjeda Proces Crek\n')
+                   auto("\n [\x1b[1;91m▪\x1b[1;92m] \033[92mMainkan Mode Pesawat 5 Detik Untuk Menjeda Proces Crek\n")
                    detik()
                    print('\n [\x1b[1;97m▪\x1b[1;92m]\033[96m SEMOGA KAMU HOKY...! \n') 
                    with ThreadPoolExecutor(max_workers=30) as ex:
