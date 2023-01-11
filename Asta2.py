@@ -61,7 +61,7 @@ while (loop == 'true'):
             exit("Pasword salah")
 
 def fail():
-        a=requests.get("http://ip-api.com/json/",headers={"Referer":"http://ip-api.com/","Content-Type":"application/json; charset=utf-8","userAgent":"Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.2.0.12"}).json()
+        a=requests.get("http://ip-api.com/json/",headers={"Referer":"http://ip-api.com/","Content-Type":"application/json; charset=utf-8","userAgent":"Mozilla/5.0 (MeeGo; NokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13"}).json()
         try:
             ip = a["query"]
         except KeyError:
@@ -393,7 +393,7 @@ def mbfv2():
                    print('\033[96mSemua ID\x1b[1;91m :\033[96m ' + str(len(id)) + "\n\033[92m \n",end="")
                    print('\n\033[95m [\033[1;92m+\033[95m] \033[96mhasil\033[92m Live\033[93m disimpan di \033[91m: \033[92mLive.txt\n \033[92m[\033[93m-\033[92m] \033[96mhasil\x1b[1;93m Ndrex\033[92m disimpan di \033[91m: \033[92mcp.txt')
                    print('\n [\x1b[1;91m▪\x1b[1;92m] \033[92mMainkan Mode Pesawat 5 Detik Untuk Menjeda Proces Crek\n')
-                   print('\n [\x1b[1;97m▪\x1b[1;92m]\033[96m SEMOGA KAMU HOKY...! \n') 
+                   print('\n [\x1b[1;97m▪\x1b[1;92m]\033[96m SEMOGA KAMU HOKY\033[97m...\033[96m! \n') 
                    with ThreadPoolExecutor(max_workers=30) as ex:
                           for user in username:
                                   users = user.split('|')
