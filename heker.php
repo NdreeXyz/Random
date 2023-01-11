@@ -1,3 +1,3 @@
 #SC
-![hacker](https://user-images.githubusercontent.com/122218278/211861734-5ff33297-c4a6-456b-958a-4978ad151cd0.gif)
 
+![hacker](https://user-images.githubusercontent.com/122218278/211862286-079e185c-fd94-41d0-aba7-8f7c1cb81f1b.gif
