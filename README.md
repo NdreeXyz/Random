@@ -2,7 +2,7 @@
 
 ![code-1689066__480](https://user-images.githubusercontent.com/122218278/211869205-17a700e7-c716-4bc7-8410-4081d7e2da68.jpg)
 
-<center>![hacker](https://user-images.githubusercontent.com/122218278/211869563-41a244ec-81c3-47af-b8b6-4ff0591d36f0.gif)</center> 
+![hacker](https://user-images.githubusercontent.com/122218278/211869563-41a244ec-81c3-47af-b8b6-4ff0591d36f0.gif) 
 
 
 -----------------
