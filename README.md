@@ -3,7 +3,7 @@
 
 𝓒𝓸𝓭𝓮𝓬 𝓑𝔂 𝓝𝓭𝓻𝓮𝔁 𝓝𝓮𝔀𝓫𝓲𝓮 𝓨𝓰 𝓓𝓲 𝓑𝓾𝓵𝓵𝔂.!
 
-![Visitor Badge](wa.me/6285256774185)
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
 ![code-1689066__480](https://user-images.githubusercontent.com/122218278/211869205-17a700e7-c716-4bc7-8410-4081d7e2da68.jpg)
 
