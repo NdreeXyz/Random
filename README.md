@@ -1,7 +1,6 @@
 # Asta
 
-
-<img src = "![code-1689066__480](https://user-images.githubusercontent.com/122218278/211869205-17a700e7-c716-4bc7-8410-4081d7e2da68.jpg)" width = "900" height = "900">
+![code-1689066__480](https://user-images.githubusercontent.com/122218278/211869205-17a700e7-c716-4bc7-8410-4081d7e2da68.jpg)
 
 
 
