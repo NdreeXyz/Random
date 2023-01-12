@@ -4,6 +4,14 @@
 
 
 
+𝙷𝚢𝚙𝚎𝚛 𝚃𝚊𝚖𝚙𝚒𝚕𝚊𝚗 𝙵𝚞𝚕𝚕 𝙵𝚒𝚝𝚞𝚛
+
+![Screenshot_2023-01-12-17-20-07-653_com termux](https://user-images.githubusercontent.com/122218278/212028905-c8ab4d4c-9d2c-4779-9156-83dbf3700d7b.jpg)
+
+
+
+
+
 # Asta
 
 
