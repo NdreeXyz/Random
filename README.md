@@ -3,7 +3,7 @@
 ![hotz-hacker](https://user-images.githubusercontent.com/122218278/211880956-6a1214fa-f1d2-416f-8bfb-59d7eabc35da.gif)
 
 
-
+----------------------------------------
 
 
 ![Screenshot_2023-01-12-17-20-07-653_com termux](https://user-images.githubusercontent.com/122218278/212028905-c8ab4d4c-9d2c-4779-9156-83dbf3700d7b.jpg)
