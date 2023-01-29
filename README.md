@@ -3,7 +3,7 @@
 ![hotz-hacker](https://user-images.githubusercontent.com/122218278/211880956-6a1214fa-f1d2-416f-8bfb-59d7eabc35da.gif)
 
 
-Tools Mencuri Akun Kontol
+Tools Untuk Mencuri Akun Kontol
 -------------------------
 
 pkg install update && pkg install upgrade
