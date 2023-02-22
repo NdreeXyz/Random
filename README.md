@@ -11,7 +11,7 @@ ls
 
 cd HydraV2
 
-python HydraV2.py
+python run.py
 
 
 ----------------------------------------
