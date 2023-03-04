@@ -5,11 +5,11 @@
 
 Tools Untuk Mencuri Akun Kontol
 -------------------------
-git clone https://github.com/NdreeXyz/HydraV2
+git clone https://github.com/NdreeXyz/HydraV3
 
 ls
 
-cd HydraV2
+cd HydraV3
 
 python run.py
 
