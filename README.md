@@ -9,7 +9,7 @@ git clone https://github.com/NdreeXyz/HydraV3
 
 ls
 
-cd HydraV3
+cd Random
 
 python run.py
 
