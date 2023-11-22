@@ -5,7 +5,7 @@
 
 Tools Untuk Mencuri Akun Kontol
 -------------------------
-git clone https://github.com/NdreeXyz/HydraV3
+git clone https://github.com/NdreeXyz/Random
 
 ls
 
